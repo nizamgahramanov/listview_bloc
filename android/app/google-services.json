@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694889872050",
+    "project_id": "listviewbloc",
+    "storage_bucket": "listviewbloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694889872050:android:c05fe87ec1673b7992e7ab",
+        "android_client_info": {
+          "package_name": "com.example.listview_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694889872050-jf2484980dimpshrq79k8doc9ogsflbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw8cXSBTuERqBePYPYaDiFwAyprXh27h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694889872050-jf2484980dimpshrq79k8doc9ogsflbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
